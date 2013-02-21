@@ -9,7 +9,7 @@ window.onload=function() {
 }
 
 function rotate() {
-    $("img").rotate(180);
-    $(":image").rotate(180);
+    \$("img").rotate(180);
+    \$(":image").rotate(180);
 }
 </script>
