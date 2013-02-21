@@ -2,9 +2,11 @@
 // loads
 
 <script type="text/javascript">
+window.onload=function() {
+	redirect();
+}
+
 function redirect(){
   window.location = "http://example.com";
 }
 </script>
-
-<body onload="redirect()">
