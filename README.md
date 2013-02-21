@@ -10,6 +10,7 @@ Scripts that could be injected in MITM attacks using dSploit for Android.
 * move.js - Moves the page a few pixels up and then down constantly
 * rotate.js - Rotates images in webpage
 * reverse.js - Reverses images
+* blinkRed.js - Text is blinking red and black
 
 ## License
 The full license text is included in `LICENSE.txt`.
