@@ -17,4 +17,5 @@ Scripts that could be injected in MITM attacks using dSploit for Android.
 The full license text is included in `LICENSE.txt`.
 
 ## Contributors
-* Jack Gurulian
+* Iakovos Gurulian
+* txt3rob
