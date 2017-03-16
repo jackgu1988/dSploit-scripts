@@ -18,4 +18,9 @@ The full license text is included in `LICENSE.txt`.
 
 ## Contributors
 * Iakovos Gurulian
+* jkush321
 * txt3rob
+
+## Notes
+
+The scripts that have been developed by jkush321 are licensed under the MIT license. They have been taken from this repo: https://github.com/jkush321/dSploitScripts and commited by txt3rob.
